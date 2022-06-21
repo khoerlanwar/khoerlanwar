@@ -13,3 +13,5 @@ On This i write this profile i'm learning about Styling and implementation for F
   <li>Vue Js</li>
   <li>React Native</li>
   </ul>
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoerlanwar&show_icons=true&locale=en&layout=compact" alt="harizinside" /></p>
