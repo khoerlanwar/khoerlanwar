@@ -11,6 +11,7 @@ On This i write this profile i'm learning about Styling and implementation for F
   <li>Jquery</li>
   <li>Node Js</li>
   <li>Vue Js</li>
+  <li>React Js</li>
   <li>React Native</li>
   </ul>
   
